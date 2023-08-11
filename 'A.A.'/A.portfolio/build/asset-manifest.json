@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0d464fc.css",
+    "main.js": "/static/js/main.91969877.js",
+    "static/js/787.634e245b.chunk.js": "/static/js/787.634e245b.chunk.js",
+    "static/media/Agassiz.png": "/static/media/Agassiz.c2eebd442196d8318b09.png",
+    "static/media/Logo-A.png": "/static/media/Logo-A.9307a2f7a48c9c78650e.png",
+    "static/media/logo_sub.png": "/static/media/logo_sub.3b09664ab8ba84960679.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.c0d464fc.css.map": "/static/css/main.c0d464fc.css.map",
+    "main.91969877.js.map": "/static/js/main.91969877.js.map",
+    "787.634e245b.chunk.js.map": "/static/js/787.634e245b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d464fc.css",
+    "static/js/main.91969877.js"
+  ]
+}
