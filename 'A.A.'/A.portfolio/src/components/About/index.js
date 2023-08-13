@@ -31,7 +31,7 @@ const About =() => {
             I'm eager to work with the latest
             technologies and ready to face the challenges! </p>
 
-<p>    I'm confident and always get the things i like done. Here's why i consider self taughtness as a benefit. It's hard and it's requies motivation,discipline and an ability to search for the answers myself. Aren't these traits are necessary for a developer?</p>
+<p>    I'm confident and always get the things i like done. Here's why i consider self taughtness as a benefit. It's hard and it requires motivation,discipline and an ability to search for the answers myself. Aren't these traits necessary for a developer?</p>
 
 <p>  I hope you're having a wonderful day! </p>
 
